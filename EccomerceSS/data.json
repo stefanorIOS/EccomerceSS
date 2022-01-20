@@ -1,0 +1,8 @@
+{
+  "EmailAccount": {
+    "email": "testtest2022dotnet@gmail.com",
+    "password": "dotnet1234",
+    "provider": "smtp.gmail.com",
+    "port": "587"
+  }
+}

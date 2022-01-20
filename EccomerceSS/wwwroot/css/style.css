@@ -1,0 +1,20 @@
+﻿* {
+    margin: 0%;
+    padding: 0%;
+    border: 0ch;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital@1&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital@1&display=swap');
+
+.center-cards {
+    display: flex;
+    text-align: left;
+    justify-content: center;
+}
+
+a{
+    color:white;
+}
+
